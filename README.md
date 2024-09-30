@@ -11,6 +11,7 @@ The code is primarily in HTML with some basic styling in CSS.
 - 🔗 [MDN: Document and Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
 ### 🖼️ Image Resources:
+- Site with Freely-Usable Images: 
     - 🔗 [Unsplash.com](https://unsplash.com/)
 - Image Editing / Resizing Software: 
     - 🔗 For Windows: [Irfanview](https://www.irfanview.com/)
